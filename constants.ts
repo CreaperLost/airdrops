@@ -108,7 +108,7 @@ export const EXCHANGES: Exchange[] = [
         makerFee: 'Variable',
         takerFee: 'Variable',
         blockchains: ['Solana'],
-        websiteUrl: '#',
+        websiteUrl: 'https://bullpen.fi/@onyx-lynx',
         tutorialUrl: '#',
     },
     {
@@ -118,7 +118,7 @@ export const EXCHANGES: Exchange[] = [
         makerFee: 'Variable',
         takerFee: 'Variable',
         blockchains: ['Ethereum'],
-        websiteUrl: '#',
+        websiteUrl: 'https://omni.variational.io/',
         tutorialUrl: '#',
     },
     {
@@ -128,7 +128,7 @@ export const EXCHANGES: Exchange[] = [
         makerFee: 'Variable',
         takerFee: 'Variable',
         blockchains: ['Arbitrum'],
-        websiteUrl: '#',
+        websiteUrl: 'https://alpha.vestmarkets.com/join/AERO1',
         tutorialUrl: '#',
     },
     {
@@ -138,7 +138,17 @@ export const EXCHANGES: Exchange[] = [
         makerFee: 'Variable',
         takerFee: 'Variable',
         blockchains: ['Ethereum'],
-        websiteUrl: '#',
+        websiteUrl: 'https://app.ostium.com/trade?from=SPX&to=USD&ref=VEPG8',
+        tutorialUrl: '#',
+    },
+    {
+        id: 'reya',
+        name: 'Reya',
+        description: 'A decentralized exchange for trading assets.',
+        makerFee: 'Variable',
+        takerFee: 'Variable',
+        blockchains: ['Arbitrum'],
+        websiteUrl: 'https://app.reya.xyz/trade?referredBy=6z9xgfwq',
         tutorialUrl: '#',
     },
 ];
