@@ -15,4 +15,5 @@ export const CALCULATOR_EXCHANGES_DATA: CalculatorExchange[] = [
     { id: 'variational', name: 'Variational', totalPointsPool: 50_000_000 },
     { id: 'vest', name: 'Vest', totalPointsPool: 50_000_000 },
     { id: 'ostium', name: 'Ostium', totalPointsPool: 24_000_000 },
+    { id: 'reya', name: 'Reya', totalPointsPool: 12_000_000 },
 ];

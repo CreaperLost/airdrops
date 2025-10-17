@@ -149,6 +149,6 @@ export const EXCHANGES: Exchange[] = [
         takerFee: 'Variable',
         blockchains: ['Arbitrum'],
         websiteUrl: 'https://app.reya.xyz/trade?referredBy=6z9xgfwq',
-        tutorialUrl: '#',
+        tutorialUrl: 'https://youtu.be/3PaagdeONmk',
     },
 ];
