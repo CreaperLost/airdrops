@@ -109,7 +109,7 @@ export const EXCHANGES: Exchange[] = [
         takerFee: 'Variable',
         blockchains: ['Solana'],
         websiteUrl: 'https://bullpen.fi/@onyx-lynx',
-        tutorialUrl: '#',
+        tutorialUrl: 'https://youtu.be/OaM3t8B11Mc',
     },
     {
         id: 'variational',
