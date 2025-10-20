@@ -39,7 +39,7 @@ export const EXCHANGES: Exchange[] = [
         takerFee: 'Variable',
         blockchains: ['Arbitrum'],
         websiteUrl: 'https://pro.edgex.exchange/referral/AERO',
-        tutorialUrl: '#',
+        tutorialUrl: 'https://youtu.be/qGC3J2uTSBE',
     },
     {
         id: 'based',
