@@ -69,7 +69,17 @@ export const EXCHANGES: Exchange[] = [
         takerFee: 'Variable',
         blockchains: ['Starknet'],
         websiteUrl: 'https://app.paradex.trade/r/aerogr',
-        tutorialUrl: '#',
+        tutorialUrl: 'https://youtu.be/2Zscgc4zCwI',
+    },
+    {
+        id: 'ethereal',
+        name: 'Ethereal',
+        description: 'A perpetuals DEX built on a arbitrum, offering deep liquidity and low fees. Backed by Ethena Labs',
+        makerFee: 'Variable',
+        takerFee: 'Variable',
+        blockchains: ['Arbitrum'],
+        websiteUrl: 'https://deposit.ethereal.trade/waitlist?ref=ELESS0',
+        tutorialUrl: 'https://youtu.be/_O5FoKybzAE?si=bgldMDupohbTo-7T',
     },
     {
         id: 'avantis',
