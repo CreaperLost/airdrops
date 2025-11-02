@@ -7,7 +7,7 @@ export interface CalculatorExchange {
 
 export const CALCULATOR_EXCHANGES_DATA: CalculatorExchange[] = [
     { id: 'lighter', name: 'Lighter', totalPointsPool: 12_000_000 },
-    { id: 'pacifica', name: 'Pacifica', totalPointsPool: 24_000_000 },
+    { id: 'pacifica', name: 'Pacifica', totalPointsPool: 480_000_000 },
     { id: 'extended', name: 'Extended', totalPointsPool: 50_000_000 },
     { id: 'edgex', name: 'EdgeX', totalPointsPool: 6_500_000 },
     { id: 'paradex', name: 'Paradex', totalPointsPool: 350_000_000 },
